@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
@@ -13,3 +14,6 @@
 =======
 # quizzler_flutterProject
 >>>>>>> 06fc090c3a134649cba80022ba957ace1055d808
+=======
+
+>>>>>>> origin/main
